@@ -39,7 +39,7 @@ A sweet   and simple stopwatch running on fusion of Vanilla javascript and HTML.
 
 
 ![](https://user-images.githubusercontent.com/57012258/234349139-3176bad0-feb6-4c7e-a906-842b65b53899.gif)
-
+- [Check on Youtube](https://youtu.be/aMavMeQ_Nuw)
 
 ## Authors
 
