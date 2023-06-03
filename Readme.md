@@ -3,7 +3,7 @@
 ![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Oeeg2xI6cZjo8KTE67nIxMS3EeUStUdQCA&usqp=CAU)
 # Stopwatch App
 
-A sweet   and simple stopwatch running on fusion of Vanilla javascript and HTML.
+A sweet   and simple stopwatch running on fusion of Vanilla javascript and HTML. [Try Now!](https://cl4p7r4p-97.github.io/Stopwatch/)
 
 
 ## Features
